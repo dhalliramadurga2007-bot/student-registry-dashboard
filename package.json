@@ -1,0 +1,17 @@
+{
+  "name": "student-ui",
+  "version": "1.0.0",
+  "description": "Professional Student Database Registry System",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.22.2",
+    "sqlite3": "^5.1.7"
+  }
+}
